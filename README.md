@@ -1,5 +1,4 @@
 # Online-Book-Store
-# Online Book Store
 
 A database-driven web application built with .NET where users can browse and search for books.
 
